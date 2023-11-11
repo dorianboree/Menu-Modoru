@@ -1,31 +1,31 @@
-# Contributing to My Project
+# Contribuer à mon projet
 
-Thank you for your interest in contributing to this project! We welcome contributions from the community.
+Merci de votre intérêt à contribuer à ce projet ! Nous apprécions les contributions de la communauté.
 
-## Getting Started
+## Commencer
 
-- Fork the repository.
-- Clone your forked repository locally.
-- Create a new branch for your work: `git checkout -b feature-name`.
+- Forkez le référentiel.
+- Clonez votre référentiel forké localement.
+- Créez une nouvelle branche pour votre travail : `git checkout -b feature-name`.
 
-## Making Changes
+## Faire des changements
 
-- Make your changes in the new branch.
-- Test your changes to ensure they work as expected.
-- Commit your changes with descriptive commit messages.
+- Effectuez vos modifications dans la nouvelle branche.
+- Testez vos modifications pour vous assurer qu'elles fonctionnent comme prévu.
+- Validez vos modifications avec des messages de validation descriptifs.
 
-## Submitting Pull Requests
+## Soumission de demandes de tirage
 
-- Push your branch to your forked repository.
-- Create a pull request from your branch to the main repository.
-- Provide a detailed description of your changes in the pull request.
+- Poussez votre branche vers votre référentiel forké.
+- Créez une pull request de votre branche vers le référentiel principal.
+- Fournissez une description détaillée de vos modifications dans la pull request.
 
-## Code of Conduct
+## Code de conduite
 
-Please note that we have a Code of Conduct in place. Be sure to follow it in all your interactions with the project.
+Veuillez noter que nous avons un code de conduite en place. Assurez-vous de le suivre dans toutes vos interactions avec le projet.
 
-## Questions and Support
+##Questions et assistance
 
-If you have questions or need support, please open an issue in the repository.
+Si vous avez des questions ou avez besoin d'aide, veuillez ouvrir un problème dans le référentiel.
 
-Thank you for contributing to our project!
+Merci de contribuer à notre projet !
