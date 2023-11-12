@@ -34,4 +34,3 @@ Nous sommes fiers de notre menu varié, qui comprend des boissons rafraîchissan
 * Boisson Grenadine: Un classique aimé de tous, idéal pour un coup de fraîcheur.
 * Boisson Pomme: La Boisson Pomme est une boisson fruitée avec le goût sucré des pommes fraîches.
 * Boisson Fraise: La Boisson Fraise est une boisson rafraîchissante à base de fraises fraîches.
-
